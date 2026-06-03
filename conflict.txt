@@ -1,1 +1,1 @@
-This is totally feature branch text
+Resolved: Combined text from both main and feature branches.
